@@ -1,0 +1,20 @@
+{
+  "name": "python-for-data-science",
+  "version": "1.0.0",
+  "description": "My Python studies for Data Science.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rodrigoleite89/python-for-data-science.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rodrigoleite89/python-for-data-science/issues"
+  },
+  "homepage": "https://github.com/rodrigoleite89/python-for-data-science#readme"
+}

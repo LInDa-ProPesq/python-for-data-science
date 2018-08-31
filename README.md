@@ -21,7 +21,7 @@ __NOTE:__ The implementations and tips will be in Brazilian Portuguese (PT-BR).
  - __Machine Learning:__  
    - [Introduction to Machine Learning with Python](03-introduction-to-machine-learning-with-python/Introduction-to-Machine-Learning.ipynb)  
  - __Linear Algebra:__  
-   - [x](#)  
+   - [Scalars, Vectors, Matrices and Tensors](04-Linear-Algebra/01-Scalars-Vectors-Matrices-and-Tensors.ipynb)  
   
 __References:__  
 [Python Fundamentos para Análise de Dados - Data Science Academy](https://www.datascienceacademy.com.br/course?courseid=python-fundamentos)  
